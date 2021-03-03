@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/veader
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://veader.org
+  * I am veader (https://keybase.io/veader) on keybase.
+  * I have a public key ASCVRaMecfBtC7rVNhSu7xyQmoRbtFlDZhx-Stqzau1zRwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d7a72918af1e67d5c0bc2bd4c247ac73f2504b36507170dc70512974c94452870a",
+      "host": "keybase.io",
+      "kid": "01209545a31e71f06d0bbad53614aeef1c909a845bb45943661c7e4adab36aed73470a",
+      "uid": "c5a6be7e0b5b02f695f18f0dd87b8200",
+      "username": "veader"
+    },
+    "merkle_root": {
+      "ctime": 1530900548,
+      "hash": "226e67bb9a1c4955b7b9ebe36001470253359031ec8092334ced697ea6a8e9e14a894c28fd37d51ee98199e3028233c0ce1847fe831829511aa5178efd9ada45",
+      "hash_meta": "0b7ae8f067259acc4e9d75987c11fa5755b23d1e0c716cd6b8b190c03ef82922",
+      "seqno": 3210352
+    },
+    "service": {
+      "entropy": "qtyffwkQl87o4GxUvRG2Rj5n",
+      "hostname": "veader.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.2"
+  },
+  "ctime": 1530900569,
+  "expire_in": 504576000,
+  "prev": "c9a1ebc222eb8a0d4494faf50df091737b3ee415459baf230e03cd6a1ff0501e",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglUWjHnHwbQu61TYUru8ckJqEW7RZQ2Ycfkras2rtc0cKp3BheWxvYWTESpcCJ8QgyaHrwiLrig1ElPr1DfCRc3s+5BVFm68jDgPNah/wUB7EIAcApuJqn+hiLYsB87DrH0q68L6NgSe7FLshDFpZH/kEAgHCo3NpZ8RA3pfSZzNQKd77FI13cEulQyWOD46K/3kDt96O0tgD6cU5RvT5YMFYmk0XfyZ4ZgNO1IUSYip9zuyVpUCSpa1QDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMyB3saWoxTK5Lgy9mPQqiADKmly5tu15gxO6ukNIUD9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/veader
+
+==================================================================
