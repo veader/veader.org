@@ -4,7 +4,7 @@ https://keybase.io/veader
 
 I hereby claim:
 
-  * I am an admin of http://veader.org
+  * I am an admin of https://veader.org
   * I am veader (https://keybase.io/veader) on keybase.
   * I have a public key ASCVRaMecfBtC7rVNhSu7xyQmoRbtFlDZhx-Stqzau1zRwo
 
@@ -20,33 +20,33 @@ To do so, I am signing this object:
       "username": "veader"
     },
     "merkle_root": {
-      "ctime": 1530900548,
-      "hash": "226e67bb9a1c4955b7b9ebe36001470253359031ec8092334ced697ea6a8e9e14a894c28fd37d51ee98199e3028233c0ce1847fe831829511aa5178efd9ada45",
-      "hash_meta": "0b7ae8f067259acc4e9d75987c11fa5755b23d1e0c716cd6b8b190c03ef82922",
-      "seqno": 3210352
+      "ctime": 1614755758,
+      "hash": "2b26cc776abb5074712842a462ea0f23b825d5921869f7c776179d1e3d3184c2cea5384faf9663c803b5f06ef94593b05739caabfd525a8d072dae0636777626",
+      "hash_meta": "d60eeaf456b9737a02bd6408fc4c03af9c67709b5d3704c03bf31415742b5ea7",
+      "seqno": 19277115
     },
     "service": {
-      "entropy": "qtyffwkQl87o4GxUvRG2Rj5n",
+      "entropy": "qLFW/OCVSAgcgMRL4RQMpjdg",
       "hostname": "veader.org",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "2.1.2"
+    "version": "5.6.2"
   },
-  "ctime": 1530900569,
+  "ctime": 1614755776,
   "expire_in": 504576000,
-  "prev": "c9a1ebc222eb8a0d4494faf50df091737b3ee415459baf230e03cd6a1ff0501e",
-  "seqno": 39,
+  "prev": "92feea038aa5672ea3d829eaa281a794cc155776272cba43d586adf6fbaa6c0f",
+  "seqno": 48,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglUWjHnHwbQu61TYUru8ckJqEW7RZQ2Ycfkras2rtc0cKp3BheWxvYWTESpcCJ8QgyaHrwiLrig1ElPr1DfCRc3s+5BVFm68jDgPNah/wUB7EIAcApuJqn+hiLYsB87DrH0q68L6NgSe7FLshDFpZH/kEAgHCo3NpZ8RA3pfSZzNQKd77FI13cEulQyWOD46K/3kDt96O0tgD6cU5RvT5YMFYmk0XfyZ4ZgNO1IUSYip9zuyVpUCSpa1QDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMyB3saWoxTK5Lgy9mPQqiADKmly5tu15gxO6ukNIUD9o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglUWjHnHwbQu61TYUru8ckJqEW7RZQ2Ycfkras2rtc0cKp3BheWxvYWTESpcCMMQgkv7qA4qlZy6j2CnqooGnlMwVV3YnLLpD1Yat9vuqbA/EIF38HheOl0LYZ5SgAc/aXWXnYubDAmVunEvp7BMI8nGAAgHCo3NpZ8RAglr824VhpLf5QZk3UAf09wohroctIyUTV9bQKXMJ9bD3/mc9XCWcrpuhd2V7d9oVyX87HBFgbMAO55O826rDDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOJgS8VJ1KUtkWHYISswbsrbLu5wiBSdxGDER/xQUrsao3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
